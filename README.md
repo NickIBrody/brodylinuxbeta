@@ -116,3 +116,4 @@ License
 
 This project is released for educational purposes.
 Use it, study it, break it, and learn from it.
+ Install from Google Drive - https://drive.google.com/file/d/1ZcNziYnOjMObizAca2Ki6euE1K4oQun5/view?usp=drive_link
