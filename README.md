@@ -6,7 +6,7 @@ This project exists mainly to understand how Linux works at a low level:
 how the kernel boots, how initrd is created, and how a minimal userspace can be assembled from scratch.
 
 
-![Hatred GIF](https://tenor.com/boAeV.gif)
+![Hatred GIF](https://media1.tenor.com/m/mN_HT38wuCUAAAAd/hatred-gun.gif)
 
 
 
