@@ -5,6 +5,11 @@ BrodyLinux is a minimal Linux distribution built manually for educational purpos
 This project exists mainly to understand how Linux works at a low level:
 how the kernel boots, how initrd is created, and how a minimal userspace can be assembled from scratch.
 
+
+![Hatred GIF](https://tenor.com/boAeV.gif)
+
+
+
 This is not a full operating system and not intended for daily use.
 
 Purpose
