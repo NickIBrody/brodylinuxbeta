@@ -1,8 +1,7 @@
 BrodyLinux – a minimal Linux distribution built manually for educational purposes.
 The goal is to understand the low-level workings of Linux: kernel boot, initrd creation, and building a minimal userspace from scratch.
 
-![Hatred GIF](https://media1.tenor.com/m/mN_HT38wuCUAAAAd/hatred-gun.gif)
-
+![BrodyLinux в работе](screenshots/main.png)
 
 What it is:
 
