@@ -1,12 +1,10 @@
-sudo apt update
-sudo apt install -y busybox-static nano xorriso isolinux syslinux-common qemu-system-x86
-nano build_brodylinux.sh
-copy the code
-chmod +x build_brodylinux.sh
-sudo ./build_brodylinux.sh
-qemu-system-x86_64 -m 512 -cdrom brodylinux.iso
+# How to Build and Test
 
-
-
-You can replace the name in the code itself and in the file creation
-
+```bash
+git clone https://github.com/NickIBrody/brodylinuxbeta.git
+cd brodylinuxbeta
+chmod +x build.sh
+./build.sh
+# After build → test in QEMU:
+qemu-system-x86_64 -cdrom brodylinux.iso -m 512
+Or download pre-built ISO
